@@ -6,7 +6,6 @@ Software Engineering Group Project Year 2 - "Book Clubs"
 - [Video Tutorial](#Video-tutorial)
 - [Project Structure](#Project-structure)
 - [Intallation instructions](#Installation-instructions)
-- [Team Sigma Members](#Members)
 - [Sources used for webapp](#Sources)
 
 
