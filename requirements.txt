@@ -1,4 +1,5 @@
 asgiref==3.4.1
+numpy==1.19
 coverage==6.0.1
 Django==3.2.5
 django-bootstrap-pagination==1.7.1
