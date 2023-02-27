@@ -9,6 +9,7 @@ SEG Large Group Project - "Book Clubs"
 - [Team Sigma Members](#Members)
 - [Sources used for webapp](#Sources)
 
+
 ## Project deployment 
 This project is deployed on heruko servers and using a postgres database and can be accessed by clicking [here](https://serene-sierra-57898.herokuapp.com/).
 
